@@ -22,5 +22,7 @@ class equilateralTriangle extends Triangle2 {
 
 public class Inheritance2 {
     public static void main(String args[]) {
+//        equilateralTriangle e1 = new equilateralTriangle();
+//        e1.area();
     }
 }
