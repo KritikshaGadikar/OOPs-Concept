@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7788ff3a-8c1a-4ee5-a75f-ed5e7b9523c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CoreJavaCourse" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2r95lYYpBpBOkzrMspg0NHfA5wy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build CoreJavaCourse.executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.AbstractAnnoymousClass.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.AnontmousInnerClass.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.AnonymousInnerClass.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ArithmeticOperator.Sum.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Array.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ArrayObject.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.BufferReaderAndScanner.ScannerExample.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ConditionalStatement.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ConditionalStatement.Demo1.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ConverstionAndCasting.casting.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.ConverstionAndCasting.conversion.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.DataType.Animal.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Enum.Demo1.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Exception.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.LambaExpresiion.Demo9.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.LogicalOperator.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Loops.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Loops.Demo1.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Loops.Demo3.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Main.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.MethodOverriding.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Methods.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.RelationalOperator.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Stream.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.String.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.String.Demo1.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.String.Demo2.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.String.Demo3.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.SwitchStatement.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.TernaryOperator.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Threads.Hello.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Threads.Sum.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Threads.sum.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.Threads.sums.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.TypeOfCasting.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.WraperClass.Demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.record.demo.main()].executor": "Run",
+    "Gradle.CoreJavaCourse [:org.example.variables.student.main()].executor": "Run",
+    "JUnit.org.example.Threads in CoreJavaCourse.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/kritiksha.gadikar/Desktop/CoreJavaCourse/src/main/java/org/example/Exception",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/Exception" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/FunctionalInterface" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/AnonoymousObject" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/typesOfInterface" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/LogicalOperator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sum">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.String.Demo1" />
+      <module name="CoreJavaCourse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Threads.Sum" />
+      <module name="CoreJavaCourse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ConditionalStatement.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ConditionalStatement.Demo" />
+      <module name="CoreJavaCourse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ConditionalStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.LogicalOperator.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LogicalOperator.Demo" />
+      <module name="CoreJavaCourse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.LogicalOperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.variables.student" />
+      <module name="CoreJavaCourse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.org.example.ConditionalStatement.Demo" />
+        <item itemvalue="Application.org.example.LogicalOperator.Demo" />
+        <item itemvalue="Application.student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7788ff3a-8c1a-4ee5-a75f-ed5e7b9523c5" name="Changes" comment="" />
+      <created>1735958606207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735958606207</updated>
+    </task>
+    <servers />
+  </component>
+</project>
