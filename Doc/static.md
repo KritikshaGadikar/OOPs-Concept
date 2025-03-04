@@ -19,3 +19,4 @@ The `static` keyword in Java is used to create members of a class that belong to
    }
    ```
 - we can save memory by this as it is static so memory is allocated once but for object it is allocated multiple times.
+- 
