@@ -31,4 +31,3 @@ public class CountWordOccurrences {
         return count;
     }
 }
-
