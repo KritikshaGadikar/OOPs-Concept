@@ -1,4 +1,4 @@
-package org.example.JavaProblems;
+    package org.example.JavaProblems;
 
 public class AddTwoNumbers {
     public static void main(String args[]) {
