@@ -18,6 +18,4 @@ It helps focus on what an object does, not how it does.
 
 ### in my words:  / here we have the keyword abstract okay , so here now it is just the abstraction , it just exits but not a real thing , (shortly we can create it , we can think it but not use it)
 
-### It is just a concept 
-
-dfbbgrfreergeferf
+### It is just a concept
